@@ -3,6 +3,7 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
+  --my-object: 10% 75%;
 }
 
 @theme inline {
@@ -18,6 +19,7 @@
   --aspect-retro:4/3;
   --my-aspect-ratio:2/3;
   --container-4xs:14rem;
+ 
 }
 
 @media (prefers-color-scheme: dark) {
