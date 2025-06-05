@@ -57,6 +57,15 @@ export default function RootLayout({
             <li>
               <Link href={"/layout/position"}>position</Link>
             </li>
+            <li>
+              <Link href={"/layout/positioned-elements"}>positioned-elements</Link>
+            </li>
+            <li>
+              <Link href={"/layout/visibility"}>visibility</Link>
+            </li>
+            <li>
+              <Link href={"/layout/z-index"}>z-index</Link>
+            </li>
           </ul>
         </div>
       </div>

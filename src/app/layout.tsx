@@ -14,6 +14,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <header><h1>Tailwind CSS</h1></header>
       <body  >
         {children}
       </body>
