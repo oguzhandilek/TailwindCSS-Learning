@@ -15,7 +15,7 @@ export default function RootLayout({
           <BackButton />
           <h1 className="text-2xl font-bold">Layout</h1>
         </div>
-        <div className="columns-3 text-indigo-600">
+        <div className="columns-3 text-indigo-600 text-2xl">
           <ul>
             <li>
               <Link href={"/layout/aspect"}>aspect-ratio</Link>
