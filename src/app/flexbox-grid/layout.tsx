@@ -21,6 +21,7 @@ export default function FlexLayouts({
             <li><Link href={"/flexbox-grid/order"}>order</Link></li>
             <li><Link href={"/flexbox-grid/grid-template-columns"}>grid-template-columns</Link></li>
             <li><Link href={"/flexbox-grid/grid-column"}>grid-column</Link></li>
+            <li><Link href={"/flexbox-grid/grid-row"}>grid-row</Link></li>
           </ul>
           
           
